@@ -1,0 +1,6 @@
+deepface
+opencv-python
+requests
+python-dotenv
+web3
+pytest
